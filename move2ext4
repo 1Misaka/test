@@ -1,1 +1,2 @@
-
+#!/bin/bash
+mv /data1/share/diskbackup /mnt/data2/share
